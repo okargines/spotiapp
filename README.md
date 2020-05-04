@@ -1,6 +1,6 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web. OScar
+Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web. OScar Gines
 
 Recuerden que deben de reconstruir los módulos de node con el comando
 
